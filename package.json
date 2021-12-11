@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "discord.js-12": "^1.0.2"
+  },
+  "name": "shop-nsn",
+  "version": "1.0.0",
+  "description": "Join | https://discord.gg/rj8JNBW8YP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
